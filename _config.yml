@@ -1,0 +1,14 @@
+layout_spectrum: 0.5448028
+color:
+  saturation: 0.2003639
+  lightness: 0.5234042
+  brandStrength: 0.5322581
+  brandColors:
+    - '#F1F5F8'
+    - '#F9C7B4'
+    - '#B4876E'
+    - '#4B3930'
+    - '#659ACF'
+  rhythmicContrast: 0.6594982
+typography_spectrum: 0.4050179
+name: The Life of Brian
