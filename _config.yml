@@ -38,4 +38,5 @@ collections:
       format: rss
       number: 10
 title: The life of Brian
+description: That's me!
 purpose: []
