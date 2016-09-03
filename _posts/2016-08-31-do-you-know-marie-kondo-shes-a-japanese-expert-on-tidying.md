@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-31T19:58:30.571Z'
+datePublished: '2016-08-31T20:22:00.031Z'
+sourcePath: _posts/2016-08-31-do-you-know-marie-kondo-shes-a-japanese-expert-on-tidying.md
 author: []
 via: {}
-dateModified: '2016-08-31T19:58:09.398Z'
-title: ''
+dateModified: '2016-08-31T20:21:59.436Z'
+title: 'My new heroine: Marie Kondo'
 publisher: {}
 description: >-
   Do you know Marie Kondo? She’s a Japanese expert on tidying things up and she
@@ -15,7 +16,6 @@ description: >-
   English, but in Dutch we would call her a ‘zweefteef’. Dutch people, me
   included, are too much down to earth for such ‘spiritual’ advice.
 starred: false
-sourcePath: _posts/2016-08-31-do-you-know-marie-kondo-shes-a-japanese-expert-on-tidying.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -24,6 +24,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# My new heroine: Marie Kondo
 ![My socks and underwear the KonMari-way.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf596a7b-9025-4cc5-87fc-4283f6647262.jpg)
 
 Do you know Marie Kondo? She's a Japanese expert on tidying things up and she explains her KonMari-method in her bestselling book ['The Life-Changing Magic of Tidying Up'][0]. To be honest, she's a bit extreme, obsessed even maybe. For example, Marie advices you to thank all your things - one by one - for helping you out. Your house, for giving you shelter. Your bag, for carrying your stuff. Your clothes for keeping you warm. I don't know the exact word in English, but in Dutch we would call her a 'zweefteef'. Dutch people, me included, are too much down to earth for such 'spiritual' advice.
