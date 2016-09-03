@@ -1,5 +1,30 @@
-title: Stories from my absolutely normal life
-purpose: []
+typography_spectrum: 0.4050179
+color:
+  saturation: 0.2003639
+  brandStrength: 0.625
+  lightness: 0.5913978
+  brandColors:
+    - '#F1F5F8'
+    - '#F9C7B4'
+    - '#B4876E'
+    - '#4B3930'
+    - '#659ACF'
+  rhythmicContrast: 0.6594982
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: The Life of Brian
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.2003639
-  brandStrength: 0.625
-  lightness: 0.5913978
-  brandColors:
-    - '#F1F5F8'
-    - '#F9C7B4'
-    - '#B4876E'
-    - '#4B3930'
-    - '#659ACF'
-  rhythmicContrast: 0.6594982
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: The Life of Brian
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4050179
-layout_spectrum: 1
+title: The life of Brian
+purpose: []
