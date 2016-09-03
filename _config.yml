@@ -1,4 +1,6 @@
 typography_spectrum: 0.4050179
+content_rating:
+  adult: false
 color:
   saturation: 0.2003639
   brandStrength: 0.625
@@ -19,6 +21,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Brian Gerrits
+  email: brian.gerrits@gmail.com
+  url: 'https://nl.linkedin.com/in/briangerrits'
 name: The Life of Brian
 cta:
   bucket: null
